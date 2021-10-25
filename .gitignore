@@ -1,0 +1,10 @@
+# Editor derictories and Files
+.vscode
+*.txt
+config.local.php
+*.zip
+*.log
+.idea
+*.sw?
+*.sln
+*.suo
