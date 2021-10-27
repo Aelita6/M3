@@ -1,5 +1,5 @@
 
-<h1 align="center"> всем привет!</ph1>
+<h1 align="center"> Всем привет!</ph1>
 
 ---
 
