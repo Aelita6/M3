@@ -8,7 +8,9 @@ LICENSE: [MIT](./license.md)
 ### Содержание:
 
 1. [Об авторе](./aboutme.md)
+
 2. [Git add](./add.md)
+
 3. [Инструкция](./gitmain.md)
    
 
@@ -17,8 +19,11 @@ LICENSE: [MIT](./license.md)
 
      
 4. [Основные команды GIT](./gogit.md)
+
 5. [10 полезных репозиториев для разработчиков](./bestrep.md)
+
 6. [5 полезных вебинаров по работе с GIT](./vif.md)
+
 7. [Заключение](./donate.md)
 
 
