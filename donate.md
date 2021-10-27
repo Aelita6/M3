@@ -1,4 +1,4 @@
-![](https://media1.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif?cid=ecf05e47j91bbomt6l9tsi69spadr308zf76rtbk51hk9o5e&rid=giphy.gif&ct=g)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXnBb_vnKbfllhLSj5aYAGVrLQDa93G-5FA&usqp=CAU)
 
 
 ## Надеюсь Вам была полезна инструкция по настройке  и работе с  GIT
