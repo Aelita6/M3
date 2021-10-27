@@ -15,4 +15,8 @@
 
 7. [Список самых популярных бесплатных API от **kazoni** ](https://github.com/public-apis/public-apis)
 
-8. 
+8. [Дизайн крупномасштабных проектов от **ayyjohn**](https://github.com/donnemartin/system-design-primer)
+
+9. [Лайф-хаки для прохождения технического интервью от **yangshun**](https://github.com/yangshun/tech-interview-handbook)
+
+10. [Список полезных ресурсов для дизайнеров от **Alaev**](https://github.com/bradtraversy/design-resources-for-developers)
