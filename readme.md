@@ -26,8 +26,6 @@ LICENSE: [MIT](./license.md)
 ---
 
 
-![](https://i.gifer.com/7h7L.gif)
-
 
 
 ---
